@@ -8,4 +8,4 @@ Built with HTML and pure CSS to test my knowledge on popular tags and properties
 
 ## Project Demo 
 
-![Dasheen Leaf Landing Page](https://media.giphy.com/media/d9VJRSf7lkA7IX8zWB/giphy.gif)
+![screen-gif](./dasheen-leaf_landing-page.gif)
