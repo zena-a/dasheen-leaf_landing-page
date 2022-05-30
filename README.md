@@ -8,6 +8,4 @@ Built with HTML and pure CSS to test my knowledge on popular tags and properties
 
 ## Project Demo 
 
-<iframe src="https://giphy.com/embed/d9VJRSf7lkA7IX8zWB" width="480" height="228" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/landing-page-d9VJRSf7lkA7IX8zWB">via GIPHY</a></p>
-
 ![Dasheen Leaf Landing Page](https://media.giphy.com/media/d9VJRSf7lkA7IX8zWB/giphy.gif)
