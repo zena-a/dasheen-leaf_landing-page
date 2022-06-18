@@ -26,10 +26,6 @@ a {
   text-decoration: none;
 }
 
-a:hover {
-  color: #2CDA9D;
-}
-
 button {
   background-color: #4CAF50;
   border: none;
@@ -310,6 +306,6 @@ footer {
   margin: 1rem;
 }
 
-.footer-icon:hover {
+.footer-icon:hover, footer a:hover {
   color: #2CDA9D;
 }
