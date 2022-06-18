@@ -11,7 +11,7 @@ body {
 }
 
 header {
-  background: #ffffff url("images/ella-olsson-lMcRyBx4G50-unsplash.jpg") no-repeat center;
+  background: #ffffff url("/images/ella-olsson-lMcRyBx4G50-unsplash.jpg") no-repeat center;
   height: 90vh;
   background-size: cover;
 }
